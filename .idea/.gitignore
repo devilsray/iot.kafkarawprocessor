@@ -1,0 +1,12 @@
+# Default ignored files
+
+/.gitignore
+/.name
+/compiler.xml
+/encodings.xml
+/iot.kafkarawprocessor.iml
+/jarRepositories.xml
+/libraries/**
+/misc.xml
+/modules.xml
+/vcs.xml
